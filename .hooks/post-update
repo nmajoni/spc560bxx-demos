@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "SPC560Bxx HAL Demo Folders update"
+cp -fR *     ../../../Components/SPC5HAL/SPC560Bxx/SPC560Bxx_HAL_Repo_Demos/resources
